@@ -30,11 +30,3 @@ O objetivo deste projeto é criar um site de portfólio responsivo para apresent
 ## Status do Projeto
 
 🚧 **Status: 📚 Projeto de Estudo** 🚧
-
-
-## 🧑‍💻 Autor
-
-**[Daniela Salgado]**
-
-* LinkedIn: [https://www.linkedin.com/in/daniela-salgado-5653b618a]
-* GitHub: [https://github.com/daniisalgado]
